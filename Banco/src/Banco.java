@@ -65,6 +65,6 @@ public class Banco {
 
             }
         }while(op != 5);
-        
+        scan.close();
     }
 }
